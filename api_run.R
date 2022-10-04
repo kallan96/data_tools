@@ -1,7 +1,7 @@
 source("functions/api_postgres.R")
 start <- Sys.time()
 
-####SETTINGS####
+####SETTINGS#####
 my_token <- "your token here"
 db_name <- "mydb"
 myproject <- "CTT Project Name" #this is your project name on your CTT account
